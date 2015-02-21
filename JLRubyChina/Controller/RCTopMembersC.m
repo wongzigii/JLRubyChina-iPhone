@@ -119,7 +119,7 @@
         //beacuse pageScrollView is private property, so when refresh again, can not move to first page
         //[self.launcherView.pageScrollView moveToPageAtIndex:0 animated:YES];
         
-        self.title = [NSString stringWithFormat:@"TOP%d 活跃会员", self.topMembersArray.count];
+        self.title = [NSString stringWithFormat:@"TOP%lu 活跃会员", (unsigned long)self.topMembersArray.count];
         
         // check if i am in top N, show HUD for fun
         if ([RCGlobalConfig myLoginId].length) {

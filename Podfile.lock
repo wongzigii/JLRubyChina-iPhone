@@ -96,17 +96,17 @@ DEPENDENCIES:
   - SSKeychain
 
 SPEC CHECKSUMS:
-  AFNetworking: ae513199cca79e9d7af2708ccabe2ed075550c42
-  fmemopen: 0c47f38f28a59216152d51fa80672c1549f80ea0
-  HPGrowingTextView: 4318f557b33c19def1c53ec275d6e2a2d6589cd0
-  LTUpdate: ee58a30f73e6dcbc47ce1e5c617b024212a2dd98
-  MBProgressHUD: 2bbc6f470111daf7f3eaa4eb12b8cbf01c4c0622
-  MTStatusBarOverlay: 2cee705996e4e307191d423bf49e583b9b2c14ac
-  Nimbus: bbde56c7e845d3c38c1f484018ef1bb3259c0507
-  NSAttributedStringMarkdownParser: fb93a47c4be94a80f4bd5e81dd8067cce5f7f5eb
-  NSStringEmojize: ea303101d9174142813454c4f3616a1a569c1052
-  RTagCloudView: 2c190afd8b633d908aba80b8f741403c004431be
-  SDSegmentedControl: 165956a426f1fd7ff1eb486c4931241f12e0867e
-  SSKeychain: 3d0b76c87e7b062a7ad1631a825fddec84367d44
+  AFNetworking: 47947303319594706f48a55185ea95a95159ab94
+  fmemopen: 54fc0cc9d9063de6103b40a24849818a53c8f1e5
+  HPGrowingTextView: 07d5ab1f1e867acfb7a6f498b819948c9e97d07c
+  LTUpdate: 2b565ebcec2be846c89c94072301696dc93b8074
+  MBProgressHUD: c356980b0cd097f19acec959b49dca5eb8ec31be
+  MTStatusBarOverlay: f1fef7143ed3e9ce3d2c6ee3f297079e5cab905f
+  Nimbus: 14fd6f034c5f53d3dccef6cfd5763959497289a9
+  NSAttributedStringMarkdownParser: fc64ca09ee9670b4f16cac3759a093ffa20ff2cd
+  NSStringEmojize: f5f6ba43472f4ddfeb0461fdbde1d9ed0b136fcc
+  RTagCloudView: 4cc2e477b8496c9da8f10c6abe206d5cd31891f5
+  SDSegmentedControl: 01fda28a7ba24a45915c0a3e69c32691643aa327
+  SSKeychain: cc48bd3ad24fcd9125adb9e0d23dd50b8bbd08b9
 
-COCOAPODS: 0.32.1
+COCOAPODS: 0.34.1

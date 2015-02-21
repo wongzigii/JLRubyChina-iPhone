@@ -94,7 +94,7 @@
                 louString = @"地板";
                 break;
             default:
-                louString = [NSString stringWithFormat:@"%u楼", _floorNumber];
+                louString = [NSString stringWithFormat:@"%luu楼",(unsigned long) _floorNumber];
         }
         _floorNumberString = [louString copy];
     }

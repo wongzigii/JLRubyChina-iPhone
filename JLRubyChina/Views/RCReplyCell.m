@@ -332,8 +332,8 @@
     // 弹出回复框
     if ([superviewC isKindOfClass:[RCTopicDetailC class]]) {
         RCTopicDetailC* topicDetailC = (RCTopicDetailC*)superviewC;
-        [topicDetailC replyTopicWithFloorAtSomeone:[NSString stringWithFormat:@"#%u楼 @%@ ",
-                                                    self.replyEntity.floorNumber, self.replyEntity.user.loginId]];
+        [topicDetailC replyTopicWithFloorAtSomeone:[NSString stringWithFormat:@"#%lu楼 @%@ ",
+                                                    (unsigned long)self.replyEntity.floorNumber, self.replyEntity.user.loginId]];
         // 移动当前cell至顶部
         NSIndexPath *indexPath = [topicDetailC.tableView indexPathForCell: self];
         if (indexPath) {

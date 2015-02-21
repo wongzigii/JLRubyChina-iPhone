@@ -140,7 +140,6 @@
 		2814F5EE187FFDAA0006D38B /* emo_021@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CE36759D186337A70015756D /* emo_021@2x.png */; };
 		2814F5EF187FFDAA0006D38B /* default.png in Resources */ = {isa = PBXBuildFile; fileRef = CE132594185F5A8400208653 /* default.png */; };
 		2814F5F1187FFDAA0006D38B /* API Problem.md in Resources */ = {isa = PBXBuildFile; fileRef = CE132591185F537600208653 /* API Problem.md */; };
-		2814F5FC187FFDE40006D38B /* JLV2EX-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2814F5FB187FFDE40006D38B /* JLV2EX-Info.plist */; };
 		2814F608187FFE030006D38B /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2814F5FD187FFE030006D38B /* Default-568h@2x.png */; };
 		2814F609187FFE030006D38B /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 2814F5FE187FFE030006D38B /* Default.png */; };
 		2814F60A187FFE030006D38B /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2814F5FF187FFE030006D38B /* Default@2x.png */; };
@@ -485,19 +484,10 @@
 		2897EEFF1856BE94000BB6B9 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2897EEFD1856BE94000BB6B9 /* InfoPlist.strings */; };
 		2897EF011856BE94000BB6B9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2897EF001856BE94000BB6B9 /* main.m */; };
 		2897EF051856BE94000BB6B9 /* RCAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2897EF041856BE94000BB6B9 /* RCAppDelegate.m */; };
-		2897EF141856BE94000BB6B9 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2897EF131856BE94000BB6B9 /* XCTest.framework */; };
-		2897EF151856BE94000BB6B9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2897EEF41856BE94000BB6B9 /* Foundation.framework */; };
-		2897EF161856BE94000BB6B9 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2897EEF81856BE94000BB6B9 /* UIKit.framework */; };
-		2897EF1E1856BE94000BB6B9 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2897EF1C1856BE94000BB6B9 /* InfoPlist.strings */; };
-		2897EF201856BE94000BB6B9 /* JLRubyChinaTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2897EF1F1856BE94000BB6B9 /* JLRubyChinaTests.m */; };
 		2897EF5F1856C422000BB6B9 /* JLNimbusTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2897EF401856C422000BB6B9 /* JLNimbusTableViewController.m */; };
-		2897EF601856C422000BB6B9 /* JLNimbusTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2897EF401856C422000BB6B9 /* JLNimbusTableViewController.m */; };
 		2897EF611856C422000BB6B9 /* JLNimbusEntity.m in Sources */ = {isa = PBXBuildFile; fileRef = 2897EF431856C422000BB6B9 /* JLNimbusEntity.m */; };
-		2897EF621856C422000BB6B9 /* JLNimbusEntity.m in Sources */ = {isa = PBXBuildFile; fileRef = 2897EF431856C422000BB6B9 /* JLNimbusEntity.m */; };
 		2897EF651856C422000BB6B9 /* JLNimbusTableModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 2897EF491856C422000BB6B9 /* JLNimbusTableModel.m */; };
-		2897EF661856C422000BB6B9 /* JLNimbusTableModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 2897EF491856C422000BB6B9 /* JLNimbusTableModel.m */; };
 		2897EF671856C422000BB6B9 /* JLNimbusMoreButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 2897EF4C1856C422000BB6B9 /* JLNimbusMoreButton.m */; };
-		2897EF681856C422000BB6B9 /* JLNimbusMoreButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 2897EF4C1856C422000BB6B9 /* JLNimbusMoreButton.m */; };
 		2897EF721856C54B000BB6B9 /* RCAPIClient.m in Sources */ = {isa = PBXBuildFile; fileRef = 2897EF6C1856C54B000BB6B9 /* RCAPIClient.m */; };
 		2897EF741856C60A000BB6B9 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 2897EF731856C60A000BB6B9 /* README.md */; };
 		2897EF761856C616000BB6B9 /* TODO.md in Resources */ = {isa = PBXBuildFile; fileRef = 2897EF751856C616000BB6B9 /* TODO.md */; };
@@ -743,7 +733,6 @@
 		CE2F93C5188EAEA600ECAACE /* API Problem.md in Resources */ = {isa = PBXBuildFile; fileRef = CE132591185F537600208653 /* API Problem.md */; };
 		CE2F93C7188EAEA600ECAACE /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 28E07C2F187D2AE500414F19 /* Default-568h@2x.png */; };
 		CE2F93C8188EAEA600ECAACE /* icon80.png in Resources */ = {isa = PBXBuildFile; fileRef = 28E07C35187D2AE500414F19 /* icon80.png */; };
-		CE2F93D0188EAED500ECAACE /* JLTesterHome-Dis-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = CE2F93CF188EAED500ECAACE /* JLTesterHome-Dis-Info.plist */; };
 		CE3675A9186337A70015756D /* emo_001@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CE367589186337A70015756D /* emo_001@2x.png */; };
 		CE3675AA186337A70015756D /* emo_002@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CE36758A186337A70015756D /* emo_002@2x.png */; };
 		CE3675AB186337A70015756D /* emo_003@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CE36758B186337A70015756D /* emo_003@2x.png */; };
@@ -916,17 +905,8 @@
 		CEEA2BEF1858C41D004FDEDF /* RCQuickReplyC.m in Sources */ = {isa = PBXBuildFile; fileRef = CEEA2BEE1858C41D004FDEDF /* RCQuickReplyC.m */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
-		2897EF171856BE94000BB6B9 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 2897EEE91856BE94000BB6B9 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 2897EEF01856BE94000BB6B9;
-			remoteInfo = JLRubyChina;
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXFileReference section */
+		178E0DE7DBFC0230D1000BF3 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 		2814F5F9187FFDAA0006D38B /* JLV2EX.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JLV2EX.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2814F5FB187FFDE40006D38B /* JLV2EX-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "JLV2EX-Info.plist"; sourceTree = "<group>"; };
 		2814F5FD187FFE030006D38B /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
@@ -1035,7 +1015,6 @@
 		2897EF021856BE94000BB6B9 /* JLRubyChina-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "JLRubyChina-Prefix.pch"; sourceTree = "<group>"; };
 		2897EF031856BE94000BB6B9 /* RCAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RCAppDelegate.h; sourceTree = "<group>"; };
 		2897EF041856BE94000BB6B9 /* RCAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RCAppDelegate.m; sourceTree = "<group>"; };
-		2897EF121856BE94000BB6B9 /* JLRubyChinaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JLRubyChinaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2897EF131856BE94000BB6B9 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		2897EF1B1856BE94000BB6B9 /* JLRubyChinaTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "JLRubyChinaTests-Info.plist"; sourceTree = "<group>"; };
 		2897EF1D1856BE94000BB6B9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
@@ -1136,7 +1115,7 @@
 		28F671E5187288D100DD0A93 /* RCContentPhotoBrowerC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCContentPhotoBrowerC.h; sourceTree = "<group>"; };
 		28F671E6187288D100DD0A93 /* RCContentPhotoBrowerC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCContentPhotoBrowerC.m; sourceTree = "<group>"; };
 		2DAEFF79992F4B9FB48FFA19 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		BECB55DCFAF84993AE6D89A6 /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = SOURCE_ROOT; };
+		9EA4A72AD06CB193B81D060C /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
 		CE13258B185F340200208653 /* RCMoreC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCMoreC.h; sourceTree = "<group>"; };
 		CE13258C185F340200208653 /* RCMoreC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCMoreC.m; sourceTree = "<group>"; };
 		CE13258E185F3A0200208653 /* MacroDefines.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MacroDefines.h; sourceTree = "<group>"; };
@@ -1266,16 +1245,6 @@
 				2897EEF91856BE94000BB6B9 /* UIKit.framework in Frameworks */,
 				2897EEF51856BE94000BB6B9 /* Foundation.framework in Frameworks */,
 				BBD07554FB194577BA42A7E6 /* libPods.a in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		2897EF0F1856BE94000BB6B9 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				2897EF141856BE94000BB6B9 /* XCTest.framework in Frameworks */,
-				2897EF161856BE94000BB6B9 /* UIKit.framework in Frameworks */,
-				2897EF151856BE94000BB6B9 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1518,7 +1487,7 @@
 				2897EF191856BE94000BB6B9 /* JLRubyChinaTests */,
 				2897EEF31856BE94000BB6B9 /* Frameworks */,
 				2897EEF21856BE94000BB6B9 /* Products */,
-				BECB55DCFAF84993AE6D89A6 /* Pods.xcconfig */,
+				AD683A93CE2F73F6295929E5 /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
@@ -1526,7 +1495,6 @@
 			isa = PBXGroup;
 			children = (
 				2897EEF11856BE94000BB6B9 /* JLRubyChina.app */,
-				2897EF121856BE94000BB6B9 /* JLRubyChinaTests.xctest */,
 				CE90A1061872E6910030DB1E /* JLRubyChina Dis.app */,
 				281ACE07187CF26900067D9C /* JLTesterHome.app */,
 				283F5D0D187FA319008ECE0E /* JLV2EX.app */,
@@ -1895,6 +1863,15 @@
 			path = vendor/320Categories/320Categories;
 			sourceTree = "<group>";
 		};
+		AD683A93CE2F73F6295929E5 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				9EA4A72AD06CB193B81D060C /* Pods.debug.xcconfig */,
+				178E0DE7DBFC0230D1000BF3 /* Pods.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		CE132593185F5A8400208653 /* Screenshots */ = {
 			isa = PBXGroup;
 			children = (
@@ -2049,24 +2026,6 @@
 			productReference = 2897EEF11856BE94000BB6B9 /* JLRubyChina.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2897EF111856BE94000BB6B9 /* JLRubyChinaTests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 2897EF261856BE94000BB6B9 /* Build configuration list for PBXNativeTarget "JLRubyChinaTests" */;
-			buildPhases = (
-				2897EF0E1856BE94000BB6B9 /* Sources */,
-				2897EF0F1856BE94000BB6B9 /* Frameworks */,
-				2897EF101856BE94000BB6B9 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				2897EF181856BE94000BB6B9 /* PBXTargetDependency */,
-			);
-			name = JLRubyChinaTests;
-			productName = JLRubyChinaTests;
-			productReference = 2897EF121856BE94000BB6B9 /* JLRubyChinaTests.xctest */;
-			productType = "com.apple.product-type.bundle.unit-test";
-		};
 		CE2F9310188EAEA600ECAACE /* JLTesterHome Dis */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = CE2F93CA188EAEA600ECAACE /* Build configuration list for PBXNativeTarget "JLTesterHome Dis" */;
@@ -2112,13 +2071,8 @@
 			isa = PBXProject;
 			attributes = {
 				CLASSPREFIX = RC;
-				LastUpgradeCheck = 0500;
+				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = jimneylee;
-				TargetAttributes = {
-					2897EF111856BE94000BB6B9 = {
-						TestTargetID = 2897EEF01856BE94000BB6B9;
-					};
-				};
 			};
 			buildConfigurationList = 2897EEEC1856BE94000BB6B9 /* Build configuration list for PBXProject "JLRubyChina" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -2138,7 +2092,6 @@
 				281ACD4B187CF26900067D9C /* JLTesterHome */,
 				CE2F9310188EAEA600ECAACE /* JLTesterHome Dis */,
 				2814F53C187FFDAA0006D38B /* JLV2EX */,
-				2897EF111856BE94000BB6B9 /* JLRubyChinaTests */,
 			);
 		};
 /* End PBXProject section */
@@ -2193,7 +2146,6 @@
 				285A469A191E44CD00D90923 /* key@2x.png in Resources */,
 				2814F5C0187FFDAA0006D38B /* emo_019@2x.png in Resources */,
 				2814F5C1187FFDAA0006D38B /* icon_menu.png in Resources */,
-				2814F5FC187FFDE40006D38B /* JLV2EX-Info.plist in Resources */,
 				2814F5C3187FFDAA0006D38B /* emo_027@2x.png in Resources */,
 				2814F5C4187FFDAA0006D38B /* emo_011@2x.png in Resources */,
 				285A4695191E44CD00D90923 /* key.png in Resources */,
@@ -2455,14 +2407,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2897EF101856BE94000BB6B9 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				2897EF1E1856BE94000BB6B9 /* InfoPlist.strings in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		CE2F9367188EAEA600ECAACE /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -2545,7 +2489,6 @@
 				CE2F93B4188EAEA600ECAACE /* emo_024@2x.png in Resources */,
 				285A46B7191E44CD00D90923 /* trackpoint-black@2x.png in Resources */,
 				CE2F93B6188EAEA600ECAACE /* emo_026@2x.png in Resources */,
-				CE2F93D0188EAED500ECAACE /* JLTesterHome-Dis-Info.plist in Resources */,
 				CE2F93B7188EAEA600ECAACE /* more_photo.png in Resources */,
 				285A46B2191E44CD00D90923 /* trackpoint-black.png in Resources */,
 				CE2F93B9188EAEA600ECAACE /* README.md in Resources */,
@@ -2760,7 +2703,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Pods-resources.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods/Pods-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		CE2F9311188EAEA600ECAACE /* Check Pods Manifest.lock */ = {
@@ -3081,18 +3024,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2897EF0E1856BE94000BB6B9 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				2897EF601856C422000BB6B9 /* JLNimbusTableViewController.m in Sources */,
-				2897EF661856C422000BB6B9 /* JLNimbusTableModel.m in Sources */,
-				2897EF681856C422000BB6B9 /* JLNimbusMoreButton.m in Sources */,
-				2897EF621856C422000BB6B9 /* JLNimbusEntity.m in Sources */,
-				2897EF201856BE94000BB6B9 /* JLRubyChinaTests.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		CE2F9312188EAEA600ECAACE /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -3265,14 +3196,6 @@
 		};
 /* End PBXSourcesBuildPhase section */
 
-/* Begin PBXTargetDependency section */
-		2897EF181856BE94000BB6B9 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 2897EEF01856BE94000BB6B9 /* JLRubyChina */;
-			targetProxy = 2897EF171856BE94000BB6B9 /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
-
 /* Begin PBXVariantGroup section */
 		2897EEFD1856BE94000BB6B9 /* InfoPlist.strings */ = {
 			isa = PBXVariantGroup;
@@ -3295,9 +3218,7 @@
 /* Begin XCBuildConfiguration section */
 		2814F5F7187FFDAA0006D38B /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = BECB55DCFAF84993AE6D89A6 /* Pods.xcconfig */;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "JLRubyChina/JLRubyChina-Prefix.pch";
 				INFOPLIST_FILE = "$(SRCROOT)/JLRubyChina/JLV2EX-Info.plist";
@@ -3314,9 +3235,7 @@
 		};
 		2814F5F8187FFDAA0006D38B /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = BECB55DCFAF84993AE6D89A6 /* Pods.xcconfig */;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "JLRubyChina/JLRubyChina-Prefix.pch";
 				INFOPLIST_FILE = "$(SRCROOT)/JLRubyChina/JLV2EX-Info.plist";
@@ -3333,9 +3252,7 @@
 		};
 		281ACE05187CF26900067D9C /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = BECB55DCFAF84993AE6D89A6 /* Pods.xcconfig */;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "JLRubyChina/JLRubyChina-Prefix.pch";
 				INFOPLIST_FILE = "$(SRCROOT)/JLRubyChina/JLTesterHome-Info.plist";
@@ -3352,9 +3269,7 @@
 		};
 		281ACE06187CF26900067D9C /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = BECB55DCFAF84993AE6D89A6 /* Pods.xcconfig */;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "JLRubyChina/JLRubyChina-Prefix.pch";
 				INFOPLIST_FILE = "$(SRCROOT)/JLRubyChina/JLTesterHome-Info.plist";
@@ -3373,7 +3288,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
@@ -3412,7 +3326,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
@@ -3443,9 +3356,8 @@
 		};
 		2897EF241856BE94000BB6B9 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = BECB55DCFAF84993AE6D89A6 /* Pods.xcconfig */;
+			baseConfigurationReference = 9EA4A72AD06CB193B81D060C /* Pods.debug.xcconfig */;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "JLRubyChina/JLRubyChina-Prefix.pch";
 				INFOPLIST_FILE = "JLRubyChina/JLRubyChina-Info.plist";
@@ -3462,9 +3374,8 @@
 		};
 		2897EF251856BE94000BB6B9 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = BECB55DCFAF84993AE6D89A6 /* Pods.xcconfig */;
+			baseConfigurationReference = 178E0DE7DBFC0230D1000BF3 /* Pods.release.xcconfig */;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "JLRubyChina/JLRubyChina-Prefix.pch";
 				INFOPLIST_FILE = "JLRubyChina/JLRubyChina-Info.plist";
@@ -3479,53 +3390,9 @@
 			};
 			name = Release;
 		};
-		2897EF271856BE94000BB6B9 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
-				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/JLRubyChina.app/JLRubyChina";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(SDKROOT)/Developer/Library/Frameworks",
-					"$(inherited)",
-					"$(DEVELOPER_FRAMEWORKS_DIR)",
-				);
-				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "JLRubyChina/JLRubyChina-Prefix.pch";
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"DEBUG=1",
-					"$(inherited)",
-				);
-				INFOPLIST_FILE = "JLRubyChinaTests/JLRubyChinaTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUNDLE_LOADER)";
-				WRAPPER_EXTENSION = xctest;
-			};
-			name = Debug;
-		};
-		2897EF281856BE94000BB6B9 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
-				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/JLRubyChina.app/JLRubyChina";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(SDKROOT)/Developer/Library/Frameworks",
-					"$(inherited)",
-					"$(DEVELOPER_FRAMEWORKS_DIR)",
-				);
-				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "JLRubyChina/JLRubyChina-Prefix.pch";
-				INFOPLIST_FILE = "JLRubyChinaTests/JLRubyChinaTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUNDLE_LOADER)";
-				WRAPPER_EXTENSION = xctest;
-			};
-			name = Release;
-		};
 		CE2F93CB188EAEA600ECAACE /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = BECB55DCFAF84993AE6D89A6 /* Pods.xcconfig */;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD)";
 				CODE_SIGN_IDENTITY = "iPhone Distribution: cong wang (5S6Z92KZTX)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "JLRubyChina/JLRubyChina-Prefix.pch";
@@ -3545,9 +3412,7 @@
 		};
 		CE2F93CC188EAEA600ECAACE /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = BECB55DCFAF84993AE6D89A6 /* Pods.xcconfig */;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD)";
 				CODE_SIGN_IDENTITY = "iPhone Distribution: cong wang (5S6Z92KZTX)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "JLRubyChina/JLRubyChina-Prefix.pch";
@@ -3566,9 +3431,7 @@
 		};
 		CE90A1041872E6910030DB1E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = BECB55DCFAF84993AE6D89A6 /* Pods.xcconfig */;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD)";
 				CODE_SIGN_IDENTITY = "iPhone Distribution: XiaoMin Chen (655CUC95QK)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: XiaoMin Chen (655CUC95QK)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -3589,9 +3452,7 @@
 		};
 		CE90A1051872E6910030DB1E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = BECB55DCFAF84993AE6D89A6 /* Pods.xcconfig */;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD)";
 				CODE_SIGN_IDENTITY = "iPhone Distribution: XiaoMin Chen (655CUC95QK)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "JLRubyChina/JLRubyChina-Prefix.pch";
@@ -3643,15 +3504,6 @@
 			buildConfigurations = (
 				2897EF241856BE94000BB6B9 /* Debug */,
 				2897EF251856BE94000BB6B9 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		2897EF261856BE94000BB6B9 /* Build configuration list for PBXNativeTarget "JLRubyChinaTests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				2897EF271856BE94000BB6B9 /* Debug */,
-				2897EF281856BE94000BB6B9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
